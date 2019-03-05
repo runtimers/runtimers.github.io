@@ -1,30 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Work+Sans:300);
 
-* {
-  margin: 0;
-  padding: 0;
-}
-
-*::after, *::before {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-html, body {
-  height: 100%;
-}
-
-body {
-  font-family: 'Work Sans', sans-serif;
-  background: white;
-}
-
-.header {
-  text-align: right;
-  padding: 20px 80px;
-  position: relative;
-}
 
 
 
