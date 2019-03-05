@@ -147,7 +147,7 @@ a {
    padding-bottom:60px;   /* Height of the footer */
    background: rgb(193, 193, 193);
 }
-/*#footer {
+#footer {
    position:absolute;
    bottom:0;
    width:100%;
